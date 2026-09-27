@@ -1,6 +1,6 @@
 <div align="center">
 
-# AXION 🛡️
+# AXION 
 ### *Outsmart threats before they come in sight.*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
@@ -21,18 +21,18 @@
 
 ## 🧩 Architecture & Modules
 
-### 1. 🌊 Axion Flow (Consumer Suite & Browser Extension)
+### 1. Axion Flow (Consumer Suite & Browser Extension)
 * **Autonomous URL Sandbox:** Intercepts suspicious links and evaluates DOM structures in an isolated container to generate a real-time **Safety Score (0–100)**.
 * **Live Traffic Inspector ("Burp Suite-Lite"):** Inspects incoming HTTP headers (CSP, HSTS) and tracking parameters on the fly.
 * **Smart File Integrity Stalker:** Computes SHA-256 file hashes and strips malicious metadata before downloads touch local storage.
 * **Credential Health Auditing:** Cross-references typed credentials securely against known breached databases using local k-anonymity hashing.
 
-### 2. ⚡ Axion Prime (Enterprise Pentesting Suite)
+### 2. Axion Prime (Enterprise Pentesting Suite)
 * **Automated VAPT Engine:** Scans target web apps, API endpoints, and internal network maps for open ports and misconfigured services.
 * **AI Exploit Simulator & Patch Recommender:** Audits code against OWASP Top 10 vulnerabilities, outputting automated reports with **ready-to-use secure code patches**.
 * **API Fuzzer:** Floods backend routes with malformed payloads to test rate-limiting thresholds and JWT authorization bypasses.
 
-### 3. 🛡️ Axion Force (Hardware Sentinel Node)
+### 3. Axion Force (Hardware Sentinel Node)
 * **Inline Network Appliance:** Powered by a Raspberry Pi 5 / Zero 2W running passive packet analysis.
 * **MitM & ARP Spoofing Interceptor:** Monitors gateway ARP tables in real time, instantly flashing warning LEDs and severing sockets if a Man-in-the-Middle attack occurs.
 * **Physical Alert Display:** Integrates an SSD1306 OLED screen, status RGB LEDs, and a hardware panic button for instant network quarantine.
@@ -48,7 +48,7 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 axion/
