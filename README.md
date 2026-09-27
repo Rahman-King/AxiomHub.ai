@@ -1,6 +1,6 @@
 <div align="center">
 
-# AXION 
+# AXION HUB
 ### *Outsmart threats before they come in sight.*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
