@@ -1,7 +1,7 @@
 <div align="center">
 
 # AXION HUB
-### *Outsmart threats before they come in sight.*
+### *Think.Protect.Defend.*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-teal?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
